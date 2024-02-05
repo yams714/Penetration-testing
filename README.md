@@ -1,18 +1,18 @@
-Comprehensive Pentesting Roadmap
+Comprehensive Pentesting Roadmap:
 
-Active Directory Pentesting
+Active Directory Pentesting:
 Explore the intricacies of Active Directory security with this comprehensive pentesting roadmap. From defining the scope to conducting vulnerability analysis and post-exploitation, this guide covers every crucial step in assessing and enhancing Active Directory security.
 
-Web Application Pentesting
+Web Application Pentesting:
 Delve into the world of web application security with our detailed roadmap. From pre-engagement to reporting, this guide covers every aspect of web application pentesting, including reconnaissance, vulnerability analysis, exploitation, and post-exploitation strategies.
 
-Mobile Application Pentesting
+Mobile Application Pentesting:
 Navigate the challenges of mobile application security using our roadmap. This guide takes you through pre-engagement activities, reconnaissance, dynamic analysis, code review, exploitation, and post-exploitation strategies tailored for mobile applications.
 
-Cloud Pentesting
+Cloud Pentesting:
 Uncover the vulnerabilities in cloud environments with our specialized roadmap. This guide includes pre-engagement tasks, reconnaissance specific to cloud services, vulnerability analysis, exploitation, and post-exploitation activities in the cloud.
 
-API Pentesting
+API Pentesting:
 Master the art of API security testing with our dedicated roadmap. From defining scope to vulnerability analysis and post-exploitation, this guide provides a comprehensive approach to ensuring the security of APIs.
 
 How to Use:
